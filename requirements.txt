@@ -3,4 +3,3 @@ plotly
 pandas
 matplotlib
 plotly_express
-os

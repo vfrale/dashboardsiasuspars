@@ -3,9 +3,9 @@ import pandas as pd
 import plotly_express as px
 import matplotlib.pyplot as plt
 import csv
-import os
 
-os.environ["STREAMLIT_CONFIG"] = "config.toml"
+
+
 st.set_page_config(layout='wide')
 
 #df = pd.read_csv('panambiteste.csv', sep=',', quoting=csv.QUOTE_NONE)
