@@ -6,7 +6,7 @@ import csv
 
 
 
-st.set_page_config(layout='wide')
+st.set_page_config(layout='wide',page_title="Projeto ISIS")
 
 #df = pd.read_csv('panambiteste.csv', sep=',', quoting=csv.QUOTE_NONE)
 #dfcru = df
